@@ -1,2 +1,2 @@
-# universal-app
-The skeleton of full stack app.
+# universal
+The skeleton of full stack things.
